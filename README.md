@@ -1,2 +1,6 @@
-# Notion-copy
-Notion website built with nodejs and react. MERN project.
+# Blog
+
+- [ ] Text box message
+- [ ] App form
+- [ ] MongoDB connect
+
